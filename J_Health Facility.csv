@@ -1,40 +1,35 @@
-﻿Region,District,Subdist,Aboboyaa CHPS,Community,Fac_Type,Ownership,latitude,Longitude
-Western North,Juaboso,Bonsu Nkwanta,Aboboyaa CHPS,Adamase,Clinic,Private,6.3198708,-3.0176603
-Western North,Juaboso,Bonsu Nkwanta,Abrokofe CHPS,Bonsu ,CHPS,Government,6.3233317,-3.0175106
-Western North,Juaboso,Bonsu Nkwanta,Adwumamu CHPS,Bonsu Nkwanta ,Maternity Home,Private,6.3266728,-3.0143264
-Western North,Juaboso,Bonsu Nkwanta,Africa CHPS,Bonsu Nkwanta ,Health Centre,Government,6.3285917,-3.00106
-Western North,Juaboso,Juaboso,Akwasi Addaekrom CHPS,Antobia,CHPS,Government,6.321575,-2.842825
-Western North,Juaboso,Sayerano,Akwasi Addaekrom CHPS,Sayerano,CHPS,Government,6.474826,-2.856702
-Western North,Juaboso,Asempaneye,Antobia CHPS,Brekrom,CHPS,Government,6.428398,-2.932202
+﻿Region,District,Subdist,Fac_Name,Community,Fac_Type,Ownership,latitude,longitude
+Western North,Juaboso,Bonsu Nkwanta,Possible Health Service Clinic,Adamase,Clinic,Private,6.3198708,-3.0176603
+Western North,Juaboso,Bonsu Nkwanta,Bonsu CHPS,Bonsu ,CHPS,Government,6.3233317,-3.0175106
+Western North,Juaboso,Bonsu Nkwanta,Yeboah's Maternity Home,Bonsu Nkwanta ,Maternity Home,Private,6.3266728,-3.0143264
+Western North,Juaboso,Bonsu Nkwanta,Bonsu Nkwanta (Juaboso) Health Centre,Bonsu Nkwanta ,Health Centre,Government,6.3285917,-3.00106
+Western North,Juaboso,Juaboso,Antobia CHPS,Antobia,CHPS,Government,6.321575,-2.842825
+Western North,Juaboso,Sayerano,Sayerano CHPS,Sayerano,CHPS,Government,6.474826,-2.856702
+Western North,Juaboso,Asempaneye,Brekrom CHPS,Brekrom,CHPS,Government,6.428398,-2.932202
 Western North,Juaboso,Jato Africa,Asoredanho CHPS,ASOREDANHO,CHPS,Government,6.286677,-3.140782
-Western North,Juaboso,Proso- Kofikrom,Bechema- Nkatieso SDA Clinic,Santase,CHPS,Government,6.3122418,-2.9612211
-Western North,Juaboso,Asempaneye,Bechema- Nkatieso SDA Clinic,Mafia,Health Centre,Government,6.460633,-2.927723
-Western North,Juaboso,Juaboso,Benchema CHPS,Kwawkrom,CHPS,Government,6.407814,-2.886266
-Western North,Juaboso,Proso- Kofikrom,Benchema CHPS,Hwemehaa,CHPS,Government,6.297462,-2.970278
-Western North,Juaboso,Proso- Kofikrom,Boinzan Anglican Clinic,Hwemehaa,CHPS,Government,6.297413,-2.970308
-Western North,Juaboso,Juaboso,Boinzan CHPS,Abrokofe,CHPS,Government,6.386725,-2.888301
-Western North,Juaboso,Asempaneye,Bonsu CHPS,Seniagyakrom,CHPS,Government,6.4350613,-2.9326627
-Western North,Juaboso,Proso- Kofikrom,Bonsu Nkwanta (Juaboso) Health Centre,MINTAKROM,CHPS,Government,6.328822,-3.009309
-Western North,Juaboso,Proso- Kofikrom,Brekrom CHPS,Mansokrom,CHPS,Government,6.353752,-2.94639
-Western North,Juaboso,Juaboso,Caiphas CHPS,Boinzan,CHPS,Government,6.383259,-2.87875
-Western North,Juaboso,Jato Africa,Eluibo CHPS,Topman,CHPS,Government,6.2699107,-3.1636493
-Western North,Juaboso,Jato Africa,Fac_Name,Africa,CHPS,Government,6.334462,-3.174147
-Western North,Juaboso,Proso- Kofikrom,Hwemehaa CHPS,Akwasi Addaekrom,CHPS,Government,6.328715,-2.942125
-Western North,Juaboso,Proso- Kofikrom,Hwemehaa CHPS,Akwasi Addaekrom,CHPS,Government,6.328637,-2.94216
-Western North,Juaboso,Sayerano,Jatokrom CHPS,Benchema,CHPS,Government,6.4363684,-2.7652318
-Western North,Juaboso,Sayerano,Jatokrom CHPS,Benchema -Nkatieso S.D.A Clinic,Clinic,CHAG,6.4387668,-2.772915
-Western North,Juaboso,Sayerano,Juaboso Government Hospital,Nkatieso,Maternity Home,Private,6.4396957,-2.7793713
-Western North,Juaboso,Sayerano,Juaboso Government Hospital,Nkatieso ,Clinic,CHAG,6.4385742,-2.7728926
-Western North,Juaboso,Sayerano,Juaboso Nkwanta CHPS,Benchema,CHPS,Government,6.4362685,-2.765231
-Western North,Juaboso,Juaboso,Kofikrom SDA Hospital,Juaboso Nkwanta,CHPS,Government,6.3821868,-2.8397063
-Western North,Juaboso,Juaboso,Kwawkrom CHPS,Juaboso,District Hospital,Government,6.3342439,-2.8297409
-Western North,Juaboso,Juaboso,Mafia Health Center,Adwumamu,CHPS,Government,6.369668,-2.777864
-Western North,Juaboso,Proso- Kofikrom,Mansokrom CHPS,Elluibo,CHPS,Government,6.355895,-2.882699
-Western North,Juaboso,Proso- Kofikrom,Mintakrom CHPS,Kofikrom ,Hospital,CHAG,6.3443772,-2.9009036
-Western North,Juaboso,Juaboso,Nyame Ama Maternity Home,BOINZAN,Clinic,CHAG,6.384639,-2.876364
-Western North,Juaboso,Bonsu Nkwanta,Possible Health Service Clinic,Abobobyaa,CHPS,Government,6.376467,-3.079379
-Western North,Juaboso,Juaboso,Santase CHPS,Juaboso,District Hospital,Government,6.334572,-2.829948
-Western North,Juaboso,Bonsu Nkwanta,Sayerano CHPS,Abobobyaa,CHPS,Government,6.376135,-3.079379
-Western North,Juaboso,Jato Africa,Seniagyakrom CHPS,Jatokrom,CHPS,Government,6.297834,-3.089064
-Western North,Juaboso,Bonsu Nkwanta,Topman CHPS,Kefass,CHPS,Government,6.26768,-3.031138
-Western North,Juaboso,Jato Africa,Yeboah's Maternity Home,Jatokrom,CHPS,Government,6.297847,-3.089152
+Western North,Juaboso,Proso- Kofikrom,Santase CHPS,Santase,CHPS,Government,6.3122418,-2.9612211
+Western North,Juaboso,Asempaneye,Mafia Health Center,Mafia,Health Centre,Government,6.460633,-2.927723
+Western North,Juaboso,Juaboso,Kwawkrom CHPS,Kwawkrom,CHPS,Government,6.407814,-2.886266
+Western North,Juaboso,Proso- Kofikrom,Hwemehaa CHPS,Hwemehaa,CHPS,Government,6.297462,-2.970278
+Western North,Juaboso,Juaboso,Abrokofe CHPS,Abrokofe,CHPS,Government,6.386725,-2.888301
+Western North,Juaboso,Asempaneye,Seniagyakrom CHPS,Seniagyakrom,CHPS,Government,6.4350613,-2.9326627
+Western North,Juaboso,Proso- Kofikrom,Mintakrom CHPS,MINTAKROM,CHPS,Government,6.328822,-3.009309
+Western North,Juaboso,Proso- Kofikrom,Mansokrom CHPS,Mansokrom,CHPS,Government,6.353752,-2.94639
+Western North,Juaboso,Juaboso,Boinzan CHPS,Boinzan,CHPS,Government,6.383259,-2.87875
+Western North,Juaboso,Jato Africa,Topman CHPS,Topman,CHPS,Government,6.2699107,-3.1636493
+Western North,Juaboso,Jato Africa,Africa CHPS,Africa,CHPS,Government,6.334462,-3.174147
+Western North,Juaboso,Proso- Kofikrom,Akwasi Addaekrom CHPS,Akwasi Addaekrom,CHPS,Government,6.328637,-2.94216
+Western North,Juaboso,Sayerano,Benchema CHPS,Benchema,CHPS,Government,6.4363684,-2.7652318
+Western North,Juaboso,Sayerano,Bechema- Nkatieso SDA Clinic,Benchema -Nkatieso S.D.A Clinic,Clinic,CHAG,6.4387668,-2.772915
+Western North,Juaboso,Sayerano,Nyame Ama Maternity Home,Nkatieso,Maternity Home,Private,6.4396957,-2.7793713
+Western North,Juaboso,Sayerano,Bechema- Nkatieso SDA Clinic,Nkatieso ,Clinic,CHAG,6.4385742,-2.7728926
+Western North,Juaboso,Juaboso,Juaboso Nkwanta CHPS,Juaboso Nkwanta,CHPS,Government,6.3821868,-2.8397063
+Western North,Juaboso,Juaboso,Juaboso Government Hospital,Juaboso,District Hospital,Government,6.3342439,-2.8297409
+Western North,Juaboso,Juaboso,Adwumamu CHPS,Adwumamu,CHPS,Government,6.369668,-2.777864
+Western North,Juaboso,Proso- Kofikrom,Eluibo CHPS,Elluibo,CHPS,Government,6.355895,-2.882699
+Western North,Juaboso,Proso- Kofikrom,Kofikrom SDA Hospital,Kofikrom ,Hospital,CHAG,6.3443772,-2.9009036
+Western North,Juaboso,Juaboso,Boinzan Anglican Clinic,BOINZAN,Clinic,CHAG,6.384639,-2.876364
+Western North,Juaboso,Bonsu Nkwanta,Aboboyaa CHPS,Abobobyaa,CHPS,Government,6.376135,-3.079379
+Western North,Juaboso,Jato Africa,Jatokrom CHPS,Jatokrom,CHPS,Government,6.297834,-3.089064
+Western North,Juaboso,Bonsu Nkwanta,Caiphas CHPS,Kefass,CHPS,Government,6.26768,-3.031138
+Western North,Juaboso,Jato Africa,Jatokrom CHPS,Jatokrom,CHPS,Government,6.297847,-3.089152
