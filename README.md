@@ -19,7 +19,7 @@ Map: <img width="1123" height="794" alt="facilities" src="https://github.com/use
 
 **Facilities with Trained Mental Health Nurses:**
 
-The following table presents health facilities in Juaboso District identified as having trained mental health nurses.
+Below are the health facilities in Juaboso District identified as having trained mental health nurses.
 
 •	Juaboso Government Hospital
 
