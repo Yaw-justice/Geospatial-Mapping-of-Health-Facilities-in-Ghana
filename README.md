@@ -21,9 +21,13 @@ Map: <img width="1123" height="794" alt="JUABOSO SUBDISTRICT MAP" src="https://g
 
 The following table presents health facilities in Juaboso District identified as having trained mental health nurses.
 •	Juaboso Government Hospital
+
 •	Kofikrom Proso Seventh-day Adventist (SDA) Hospital
+
 •	Bonsu Nkwanta Health Center	
+
 •	Mafia Health Center
+
 •	Jato CHPS	
 
 
