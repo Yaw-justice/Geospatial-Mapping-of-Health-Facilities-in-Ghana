@@ -10,3 +10,7 @@ Ghana national location map,
 Western North regional location map,
 Juaboso District health facility distribution map,
 Locations of facilities with trained mental health nurses.
+
+
+
+
