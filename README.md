@@ -1,4 +1,4 @@
-<img width="3508" height="2480" alt="H_jpg" src="https://github.com/user-attachments/assets/79c26278-0626-41d9-a92d-7f529b5d89ce" />**Project Overview:**
+**Project Overview:**
 
 This project uses ArcGIS to visualise the geographical distribution of health facilities in Juaboso District, Western North Region, Ghana. It highlights the locations of health facilities and identifies facilities with trained mental health nurses.
 The map includes geographical reference maps of Ghana and the Western North Region to show the location of Juaboso District within the country.
