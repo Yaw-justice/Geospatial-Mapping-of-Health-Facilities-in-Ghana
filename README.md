@@ -14,8 +14,7 @@ Juaboso District health facility distribution map,
 Locations of facilities with trained mental health nurses.
 
 
-Map: <img width="1123" height="794" alt="facilities" src="https://github.com/user-attachments/assets/d3b9df4e-e6a8-4d72-8a95-d3300d66a234" />
-
+Map: <![Uploading H_jpg.jpg…]()
 
 **Facilities with Trained Mental Health Nurses:**
 
